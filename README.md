@@ -1,2 +1,7 @@
-# CalculatorJS
-Scientific calculator built using HTML, CSS &amp; JavaScript
+# Description
+A web app performing the functions of a scientific calculator. Built using HTML, CSS and JavaScript.
+
+# Overview:
+
+
+
